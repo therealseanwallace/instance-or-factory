@@ -5,7 +5,7 @@
 This is a utility function that returns either a factory function for testing purposes or an instance created by the factory for use in other environments.
 
 ## Usage
-1. Install using "npm i return-instance-or-factory".
+1. Install using "npm i instance-or-factory".
 
 2. Import the module into your code:
 
