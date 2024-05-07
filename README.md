@@ -10,13 +10,13 @@ This is a utility function that returns either a factory function for testing pu
 2. Import the module into your code:
 
 ```javascript
-import { returnInstanceOrFactory } from "return-instance-or-factory";
+import { returnInstanceOrFactory } from "instance-or-factory";
 ```
 
 3. Use the function to get either a factory function or an instance:
 
 ```javascript
-import { returnInstanceOrFactory } from "return-instance-or-factory";
+import { returnInstanceOrFactory } from "instance-or-factory";
 
 const factory = (args) => {
   // Factory function logic here
